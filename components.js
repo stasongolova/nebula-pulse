@@ -1,0 +1,1 @@
+System.out.println("The input string is a palindrome.");
